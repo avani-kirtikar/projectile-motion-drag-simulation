@@ -1,2 +1,2 @@
 # projectile-motion-drag-simulation
-Projectile Motion Simulator with Atmospheric Drag (Python)
+A computational physics simulator modeling 2D projectile motion with quadratic atmospheric drag using Euler-Cromer numerical integration in Python."
